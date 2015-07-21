@@ -1,6 +1,6 @@
 #include "application.h"
 
-#include "LiquidCrystal.h"
+#include "LiquidCrystal_v.5.h"
 
 // When the display powers up, it is configured as follows:
 //
